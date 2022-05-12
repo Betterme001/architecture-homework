@@ -107,7 +107,7 @@
 
 ## 4.3 设计规范
 
-1. API 采用restful风格，httpx协议
+1. API 采用restful风格，https协议
 
 2. MySQL 使用 Innodb 存储引擎
 

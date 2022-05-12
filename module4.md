@@ -22,9 +22,9 @@
 
 选择题：key= select,    value: {1: { title：“我们国家有几个省份”, A：22, B: 23,C: 24, D:25 }
 
-判断题：key=judge ,    vaule: “我们国家社会主义吗”
+判断题：key= judge ,    vaule: “我们国家社会主义吗”
 
-#### 方案2: redis 采用string数据结构：
+#### 方案2: redis 采用string数据结构
 
 key = test1， value= "第1题：今天星期几，第2题"
 
